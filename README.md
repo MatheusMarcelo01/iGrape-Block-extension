@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="address" alt="logo" width="150" style="max-width:100%;height:auto;" />
+  <img src="/icons/logo.png" alt="logo" width="150" style="max-width:100%;height:auto;" />
 </p>
 # iGrape-Block-extension
 
