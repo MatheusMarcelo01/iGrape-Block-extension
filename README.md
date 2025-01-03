@@ -1,7 +1,6 @@
 <p align="center">
   <img src="/icons/logo.png" alt="logo" width="150" style="max-width:100%;height:auto;" />
 </p>
-# iGrape-Block-extension
 
 **iGrape Block** is a web browser extension designed to block unwanted websites. This extension allows users to create a customizable blacklist, enabling them to block specific sites effectively.
 
